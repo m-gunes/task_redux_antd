@@ -1,3 +1,16 @@
+
+----------------------------
+
+step 1: 
+### `yarn install`
+
+step 2: 
+### `yarn start`
+
+----------------------------
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
