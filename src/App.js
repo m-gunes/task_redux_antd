@@ -3,7 +3,7 @@ import { Layout, Row, Button } from 'antd';
 import { BrowserRouter as Router, Route, Link } from "react-router-dom";
 import Home from './components/Home';
 import AdminApp from './components/Admin';
-import './App.css';
+import './style/App.css'
 
 const { Header, Footer, Content } = Layout;
 
